@@ -7,6 +7,9 @@ functions in sequence:
 2. `validate_agent` checks that answer.
 3. The main agent returns the answer and the validation result.
 
+The agent uses Sysco's SAGE LLM through `SageLlmRegistry` with the
+`sage-gemini-2.5-flash` model.
+
 ## Project files
 
 - `agent.py` defines the main ADK agent and registers the tools.
