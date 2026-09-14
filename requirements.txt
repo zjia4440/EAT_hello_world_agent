@@ -1,0 +1,5 @@
+google-adk
+python-dotenv
+sage-client @ git+https://github.com/SyscoCorporation/sage-ai-sdk-python.git@sage-adk_1.0.0#subdirectory=sage_client
+sage-core @ git+https://github.com/SyscoCorporation/sage-ai-sdk-python.git@sage-adk_1.0.0#subdirectory=sage_core
+sage-adk @ git+https://github.com/SyscoCorporation/sage-ai-sdk-python.git@sage-adk_1.0.0#subdirectory=sage_adk
